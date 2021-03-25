@@ -1,1 +1,70 @@
-z
+{
+	"headline": "Our Approach",
+	"tab": [
+		{
+			"title": {
+				"text": "Research"
+			},
+			"open": true,
+			"content": {
+				"headline": "Research & Analytics",
+				"text": "salut",
+				"url": "#",
+				"destination": "Details",
+				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_research.svg"
+			}
+		},
+		{
+			"title": {
+				"text": "Planning"
+			},
+			"content": {
+				"headline": "Planning",
+				"text": "salut",
+				"url": "#",
+				"destination": "Details",
+				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_planning.svg"
+			},
+			"open": false
+		},
+		{
+			"title": {
+				"text": "Production"
+			},
+			"content": {
+				"headline": "Production",
+				"text": "salut",
+				"url": "#",
+				"destination": "Details",
+				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_production.svg"
+			},
+			"open": false
+		},
+		{
+			"title": {
+				"text": "Testing"
+			},
+			"content": {
+				"headline": "Testing",
+				"text": "salut",
+				"url": "#",
+				"destination": "Details",
+				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_testing.svg"
+			},
+			"open": false
+		},
+		{
+			"title": {
+				"text": "Result"
+			},
+			"content": {
+				"headline": "Result",
+				"text": "salut",
+				"url": "#",
+				"destination": "Details",
+				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_result.svg"
+			},
+			"open": false
+		}
+	]
+}
