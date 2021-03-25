@@ -3,11 +3,11 @@
 	"tab": [
 		{
 			"title": {
-				"text": "Research"
+				"text": "Devellopement"
 			},
 			"open": true,
 			"content": {
-				"headline": "Research & Analytics",
+				"headline": "Recherche & Analyse",
 				"text": "salut",
 				"url": "#",
 				"destination": "Details",
@@ -16,7 +16,7 @@
 		},
 		{
 			"title": {
-				"text": "Planning"
+				"text": "Securité"
 			},
 			"content": {
 				"headline": "Planning",
@@ -29,7 +29,7 @@
 		},
 		{
 			"title": {
-				"text": "Production"
+				"text": "Hebergement"
 			},
 			"content": {
 				"headline": "Production",
@@ -42,7 +42,7 @@
 		},
 		{
 			"title": {
-				"text": "Testing"
+				"text": "Maintenance"
 			},
 			"content": {
 				"headline": "Testing",
@@ -55,7 +55,7 @@
 		},
 		{
 			"title": {
-				"text": "Result"
+				"text": "Resultat"
 			},
 			"content": {
 				"headline": "Result",
