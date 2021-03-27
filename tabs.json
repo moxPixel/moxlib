@@ -20,7 +20,7 @@
 			},
 			"content": {
 				"headline": "Planning",
-				"text": "",
+				"text": "Unlock attache une attention particulière à la sécurité dans sa globalité, que ce soit lors d’une création ou d’une refonte nous veillons à se que vos projet soit sans failles.",
 				"url": "#",
 				"destination": "Details",
 				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_planning.svg"
@@ -33,7 +33,7 @@
 			},
 			"content": {
 				"headline": "Production",
-				"text": "salut",
+				"text": "Offre d’hébergement avec transfert ou dépôt de votre nom de domaine principal (et création de comptes emails)",
 				"url": "#",
 				"destination": "Details",
 				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_production.svg"
@@ -46,7 +46,7 @@
 			},
 			"content": {
 				"headline": "Testing",
-				"text": "salut",
+				"text": "Offre de services de maintenance corrective et technique, afin d’assurer le suivi et les évolutions de votre site web après sa mise en ligne",
 				"url": "#",
 				"destination": "Details",
 				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_testing.svg"
