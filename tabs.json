@@ -52,6 +52,19 @@
 				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_testing.svg"
 			},
 			"open": false
+		},
+		{
+			"title": {
+				"text": "Resultat"
+			},
+			"content": {
+				"headline": "Result",
+				"text": "Nous allions performance et elegance afin de cultivé et garatntir le resultat attendue",
+				"url": "#",
+				"destination": "Details",
+				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_result.svg"
+			},
+			"open": false
 		}
 		
 	]
